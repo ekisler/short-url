@@ -1,5 +1,5 @@
-# short-url
-shortUrls
+# Short-url
+ShortUrls
 
 Short URLs Realizado con Node.js y la tutoria de Bluweb
 que involucra  a las sigueintes tecnologias:
