@@ -2,7 +2,7 @@
 shortUrls
 
 Short URLs Realizado con Node.js y la tutoria de Bluweb
-que involucra  alas sigueinte stecnologias:
+que involucra  a las sigueintes tecnologias:
 
  "dependencies": {
     "bcryptjs": "^2.4.3",
